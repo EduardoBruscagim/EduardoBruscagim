@@ -3,7 +3,7 @@
 <!-- ========================================================================= -->
 <!-- 🌊 HEADER DINÂMICO PREMIUM (CAPSULE RENDER COM AURORA WAVE) -->
 <!-- ========================================================================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=230&section=header&text=Eduardo%20Bruscagim&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Front-End%20%26%20Full%20Stack%20Engineer&descSize=20&descAlignY=62&descAlign=50&animation=twinkling" width="100%" alt="Eduardo Bruscagim Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=230&section=header&text=Eduardo%20Bruscagim&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Front-End%20and%20Full%20Stack%20Engineer&descSize=20&descAlignY=62&descAlign=50&animation=twinkling" width="100%" alt="Eduardo Bruscagim Header" />
 
 <!-- ========================================================================= -->
 <!-- ⚡ TERMINAL TYPING ANIMATION (SVG INTERATIVO) -->
@@ -36,16 +36,6 @@ Desenvolvedor de software orientado a **Front-End & Full Stack**, focado em tran
 - 🛡️ **Acessibilidade por Padrão (WCAG 2.2 AA):** Semântica HTML rigorosa, conformidade auditada via **Axe-Core (100/100)**, foco gerenciável por teclado (*Focus Trap*) e respeito a `prefers-reduced-motion`.
 - ⚡ **Arquitetura de Alta Performance:** Renderização estática com pré-hidratação (**SSG**), eliminação de flashes de layout (**Zero FOUC**), deduplicação de requisições concorrentes e motores adaptativos de FPS para hardware modesto.
 - 🗄️ **Dados Relacionais em Tempo Real:** Domínio de **PostgreSQL** e **Supabase**, utilizando Views otimizadas, Stored Procedures/RPCs, políticas de segurança **RLS** e WebSockets.
-
----
-
-### 🏆 Troféus de Atividade GitHub
-
-<div align="center">
-  <a href="https://github.com/EduardoBruscagim">
-    <img src="https://github-profile-trophy.vercel.app/?username=EduardoBruscagim&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
-  </a>
-</div>
 
 ---
 
@@ -103,18 +93,18 @@ Desenvolvedor de software orientado a **Front-End & Full Stack**, focado em tran
     <tr style="border:none;">
       <td style="border:none;" align="center">
         <a href="https://github.com/EduardoBruscagim">
-          <img src="https://github-readme-stats.vercel.app/api?username=EduardoBruscagim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8&locale=pt-br" alt="GitHub Stats" />
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=EduardoBruscagim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8" alt="GitHub Stats" />
         </a>
       </td>
       <td style="border:none;" align="center">
         <a href="https://github.com/EduardoBruscagim">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoBruscagim&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="GitHub Streak" />
+          <img src="https://streak-stats.demolab.com?user=EduardoBruscagim&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="GitHub Streak" />
         </a>
       </td>
     </tr>
   </table>
   <a href="https://github.com/EduardoBruscagim">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBruscagim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&locale=pt-br" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EduardoBruscagim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
   </a>
 </div>
 
